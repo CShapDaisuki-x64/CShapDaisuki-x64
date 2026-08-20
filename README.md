@@ -9,4 +9,4 @@
 Hello World!<br>
 趣味プログラマー人間でございます。まだまだ不届き者であると思いますが、何卒よろしくお願いします。
 [公式サイト](https://syumi-programmer-ningen.pages.dev/)<br>
-私のニコニコもよろしくお願いします (ニコニコ)[]
+私のニコニコもよろしくお願いします [ニコニコ](https://www.nicovideo.jp/user/143347513)
